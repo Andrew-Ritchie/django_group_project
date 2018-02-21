@@ -30,19 +30,21 @@ We will use a version control system to collabrate, the specific tools being git
 
 \newpage
 #5 Entity Relationship Diagram
-![](ER_Diagram.PNG) \ 
-
+\includegraphics[width=\linewidth]{ER_Diagram.png}
 \newpage
+
 #6 Wireframes
-![](site_design.png) \ 
-
+\includegraphics[width=\linewidth]{site_design.png}
 \newpage
+
 #7 Site Walkthrough 
-![](chart1.png) \
+\includegraphics[width=\linewidth]{chart1.png}
 
 
 ##7.1 Description
+
 ###7.1.1 Main Page Descriptions
+
 ####7.1.1.1 Home Page 
 The inital page users will see is a home page. This will have a feed with latest post displayed, a log in and sign up section. Along the top of the page there will be various links to different areas of the website with a parallel line of links at the bottom of the page. These links at the bottom will be mainly for support with a "Contact", "FAQ", "About Us" and "Latest News".
 

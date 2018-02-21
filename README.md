@@ -16,6 +16,6 @@
 #### 1.3 Learn RMD
 1. [R Markdown Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
 2. ```
-	How to insert images: ![Annotation here, width=x%](image_name)\[one space after the backslash! :)]
-	Images should be in same folder as .rmd file and x is just any integer to scale image the \[space] ensures that the image comes after the content it is below.
+	\includegraphics[width=\linewidth]{imagename.extension} 
+	To find out more google \includegraphics LaTeX parameters.
 	```
