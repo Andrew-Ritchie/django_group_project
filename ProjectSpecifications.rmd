@@ -30,23 +30,26 @@ We will use a version control system to collabrate, the specific tools being git
 
 \newpage
 #5 Entity Relationship Diagram
-![Entity Relationship Diagram for our website., width=75%](ER_Diagram.PNG) \ 
+![](ER_Diagram.PNG) \ 
 
 \newpage
-#6 Wireframes 
+#6 Wireframes
+![](site_design.png) \ 
 
-#6 Site Walkthrough 
-pic from group chat 
+\newpage
+#7 Site Walkthrough 
+![](chart1.png) \
 
-##6.1 Description
-###6.1.1 Main Page Descriptions
-####6.1.1.1 Home Page 
+
+##7.1 Description
+###7.1.1 Main Page Descriptions
+####7.1.1.1 Home Page 
 The inital page users will see is a home page. This will have a feed with latest post displayed, a log in and sign up section. Along the top of the page there will be various links to different areas of the website with a parallel line of links at the bottom of the page. These links at the bottom will be mainly for support with a "Contact", "FAQ", "About Us" and "Latest News".
 
-####6.1.1.2 Categories 
+####7.1.1.2 Categories 
 This page will display all the different types of dishes for example, Mains, Sides, Desserts and Easy Recipes that are stored on the website as links. These links take the user to the appropriate page where related posts will be displayed.
 
-####6.1.1.3 Profile 
+####7.1.1.3 Profile 
 This page will contain the signed in users information that he/she has agreed to share with the websites community. It will have a profile picture and all of the posts that this users has created. It will also contain a section where the user can upload data in the form of posts.
 
 
