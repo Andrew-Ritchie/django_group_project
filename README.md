@@ -16,6 +16,9 @@
 #### 1.3 Learn RMD
 1. [R Markdown Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
 2. ```
+	To insert images:
+	
 	\includegraphics[width=\linewidth]{imagename.extension} 
+	
 	To find out more google \includegraphics LaTeX parameters.
 	```
