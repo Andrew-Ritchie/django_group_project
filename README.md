@@ -14,7 +14,7 @@
 3. Click run all, done!
 
 ## 1.3 Learn RMD
-1. [R Markdown Cheat Sheet] (https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
+1. [R Markdown Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
 2. ```
 	How to insert images: ![Annotation here, width=x%](image_name)
 	Images should be in same folder as .rmd file and x is just any integer to scale image
