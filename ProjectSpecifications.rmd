@@ -24,15 +24,15 @@ We will use a version control system to collabrate, the specific tools being git
 
 \newpage
 #3 User Personas
-##Persona 1
+##3.1 Persona 1
 ![](img/persona1.png)\
 \newpage
 
-##Persona 2
+##3.2 Persona 2
 ![](img/persona2.png)\
 
 
-##Persona 3
+##3.3 Persona 3
 ![](img/persona3.png)\
 
 
@@ -43,12 +43,17 @@ We will use a version control system to collabrate, the specific tools being git
 
 \newpage
 #5 Entity Relationship Diagram
-![](img/ER_Diagram.png)\
-\newpage
+![](img/ER_Diagram.png)\ \newpage
 
 #6 Wireframes
-![](img/login.png)\
-\newpage
+#6.1 Index
+![](img/index.png)\ \newpage
+
+#6.2 Category
+![](img/category.png)\ \newpage
+
+#6.3 Login
+![](img/login.png)\ \newpage
 
 #7 Site Walkthrough 
 ![](img/chart1.png)\
