@@ -62,22 +62,26 @@ We will use a version control system to collabrate, the specific tools being git
 #7 Site Walkthrough 
 
 ##7.1 General Layout
-When one first loads up the website, one will be presented with a menu bar at the top with the options: Home, Treding, Categories, Favourites and Profile. Clicking on any of these will take you to the respective pages. At the top right hand corner of the website one will find a login/out button which can be used once one has a registered account. To the left hand corner of the top menu, there is a search bar that users can use. Furthermore, users are presented with a feed of recipes in the center of the page. When transitioning from page to page, the main section of the website may change content to fuffil said pages requirements. Finally There is a menu at the foot of the website with a link to the latest recipe posts and several support links. Each page has the same general layout to provide an easy to use website and contiunity. Provided below is a visual mapping of how to navigate the website:
-![](img/chart1.png)\ \newpage
+When one first loads up the website, one will be presented with a menu bar at the top with the options: Home, Treding, Categories, Favourites and Profile. Clicking on any of these will take you to the respective pages. At the top right hand corner of the website one will find a login/out button which can be used once one has a registered account. To the left hand corner of the top menu, there is a search bar that users can use. Furthermore, users are presented with a feed of recipes in the center of the page. When transitioning from page to page, the main section of the website may change content to fuffil said pages requirements. Finally There is a menu at the foot of the website with a link to the latest recipe posts and several support links. Each page has the same general layout to provide an easy to use website and contiunity. 
+
+##7.2 Visual Site Mappings
+Provided below are visual mappings of how to navigate the website:\
+![](img/chart1.png)\
+![](img/urls_pic.png)\
 
 
-##7.2 How-To Tutorial
+##7.3 How-To Tutorial
 
-###7.2.1 Index Page
+###7.3.1 Index Page
 To navigate users need to click on links in the respective menus to take oneself to another page. If users want to find a specific recipe or user, one simply needs to type what they are looking for in the search bar. If not signed in one will be presented with a feed of trending recipes, however if signed in the feed is personalised based on which users one follows and on previous recipe viewing history.
 
-###7.2.2 Catagory Page
+###7.3.2 Catagory Page
 On this page the feed is replaced by captioned images of the catagories available on the website, to go to the respective catagories the user simply needs to click the image for the catagory.
 
-###7.2.3 Recipe Page
+###7.3.3 Recipe Page
 When the user has clicked on the recipe, the user will be presented with the method and ingredients. The ingredient list is always below the image of the finished product and is listed by name and amount. The method is always to the right, users should follow the steps provided to make the following recipe. At the bottom users can leave comments for the recipe author, comments are seen by all users.
 
-###7.2.4 Login Page
+###7.3.4 Login Page
 If the user is already registered with the website then one can login by entering one's username and password and pressing the log in button. Once logged in users have the option to modify their profile and post a recipe. If the user is not registered with the website then one can register by choosing a available username and password and providing an email account that blongs to oneself.
 
 
