@@ -1,7 +1,7 @@
 # Recipe Website
 ## Django Group Project - Web App Development 2 - University of Glasgow (2018)
 ### Authors: Adirek Laiman (2115808L), Cameron Taylor (2256483T), Tsveta Popova (2254765P), Andrew Ritchie (2253409R)
-
+---
 ### 1 How to compile R Markdown files.
 #### 1.1 Download Prerequisites
 1. [R](https://cran.r-project.org/mirrors.html)
@@ -18,7 +18,5 @@
 2. ```
 	To insert images:
 	
-	\includegraphics[width=\linewidth]{imagename.extension} 
-	
-	To find out more google \includegraphics LaTeX parameters.
+	![](image.extension)\
 	```

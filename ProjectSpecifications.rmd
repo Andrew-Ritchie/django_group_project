@@ -1,5 +1,5 @@
 ---
-title: "Project Specifcations"
+title: "Project Specifcations: The Pantry"
 output: pdf_document
 author: Adirek Laiman (2115808L), Cameron Taylor(2256483T), Tsveta Popova (2254765P), Andrew Ritchie (2253409R)
 ---
@@ -25,14 +25,15 @@ We will use a version control system to collabrate, the specific tools being git
 \newpage
 #3 User Personas
 ##Persona 1
-\includegraphics[width=\linewidth]{persona1.png}
+![](persona1.png)\
 \newpage
 
 ##Persona 2
-\includegraphics[width=\linewidth]{persona2.png}
+![](persona2.png)\
+
 
 ##Persona 3
-\includegraphics[width=\linewidth]{persona3.png}
+![](persona3.png)\
 
 
 
@@ -42,15 +43,15 @@ We will use a version control system to collabrate, the specific tools being git
 
 \newpage
 #5 Entity Relationship Diagram
-\includegraphics[width=\linewidth]{ER_Diagram.png}
+![](ER_Diagram.png)\
 \newpage
 
 #6 Wireframes
-\includegraphics[width=\linewidth]{site_design.png}
+![](login.png)\
 \newpage
 
 #7 Site Walkthrough 
-\includegraphics[width=\linewidth]{chart1.png}
+![](chart1.png)\
 
 
 ##7.1 Description
