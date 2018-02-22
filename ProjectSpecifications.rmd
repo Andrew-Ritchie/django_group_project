@@ -24,6 +24,18 @@ We will use a version control system to collabrate, the specific tools being git
 
 \newpage
 #3 User Personas
+##Persona 1
+\includegraphics[width=\linewidth]{persona1.png}
+\newpage
+
+##Persona 2
+\includegraphics[width=\linewidth]{persona2.png}
+
+##Persona 3
+\includegraphics[width=\linewidth]{persona3.png}
+
+
+
 
 \newpage
 #4 System Architecture 
