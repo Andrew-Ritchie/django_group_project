@@ -46,31 +46,37 @@ We will use a version control system to collabrate, the specific tools being git
 ![](img/ER_Diagram.png)\ \newpage
 
 #6 Wireframes
-#6.1 Index
+##6.1 Index Page
 ![](img/index.png)\ \newpage
 
-#6.2 Category
+##6.2 Recipe Page
+![](img/recipe.png)\ \newpage
+
+##6.3 Category Page
 ![](img/category.png)\ \newpage
 
-#6.3 Login
+##6.4 Login Page
 ![](img/login.png)\ \newpage
 
 #7 Site Walkthrough 
-![](img/chart1.png)\
+
+##7.1 General Layout
+When one first loads up the website, one will be presented with a menu bar at the top with the options: Home, Treding, Categories, Favourites and Profile. Clicking on any of these will take you to the respective pages. At the top right hand corner of the website one will find a login/out button which can be used once one has a registered account. To the left hand corner of the top menu, there is a search bar that users can use. Furthermore, users are presented with a feed of recipes in the center of the page. When transitioning from page to page, the main section of the website may change content to fuffil said pages requirements. Finally There is a menu at the foot of the website with a link to the latest recipe posts and several support links. Each page has the same general layout to provide an easy to use website and contiunity. Provided below is a visual mapping of how to navigate the website:
+![](img/chart1.png)\ \newpage
 
 
-##7.1 Description
+##7.2 How-To Tutorial
 
-###7.1.1 Main Page Descriptions
+###7.2.1 Index Page
+To navigate users need to click on links in the respective menus to take oneself to another page. If users want to find a specific recipe or user, one simply needs to type what they are looking for in the search bar. If not signed in one will be presented with a feed of trending recipes, however if signed in the feed is personalised based on which users one follows and on previous recipe viewing history.
 
-####7.1.1.1 Home Page 
-The inital page users will see is a home page. This will have a feed with latest post displayed, a log in and sign up section. Along the top of the page there will be various links to different areas of the website with a parallel line of links at the bottom of the page. These links at the bottom will be mainly for support with a "Contact", "FAQ", "About Us" and "Latest News".
+###7.2.2 Catagory Page
+On this page the feed is replaced by captioned images of the catagories available on the website, to go to the respective catagories the user simply needs to click the image for the catagory.
 
-####7.1.1.2 Categories 
-This page will display all the different types of dishes for example, Mains, Sides, Desserts and Easy Recipes that are stored on the website as links. These links take the user to the appropriate page where related posts will be displayed.
+###7.2.3 Recipe Page
+When the user has clicked on the recipe, the user will be presented with the method and ingredients. The ingredient list is always below the image of the finished product and is listed by name and amount. The method is always to the right, users should follow the steps provided to make the following recipe. At the bottom users can leave comments for the recipe author, comments are seen by all users.
 
-####7.1.1.3 Profile 
-This page will contain the signed in users information that he/she has agreed to share with the websites community. It will have a profile picture and all of the posts that this users has created. It will also contain a section where the user can upload data in the form of posts.
-
+###7.2.4 Login Page
+If the user is already registered with the website then one can login by entering one's username and password and pressing the log in button. Once logged in users have the option to modify their profile and post a recipe. If the user is not registered with the website then one can register by choosing a available username and password and providing an email account that blongs to oneself.
 
 
