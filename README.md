@@ -1,6 +1,6 @@
-# Recipe Website
+# The Pantry: Recipe Website
 ## Django Group Project - Web App Development 2 - University of Glasgow (2018)
-### Authors: Adirek Laiman (2115808L), Cameron Taylor (2256483T), Tsveta Popova (2254765P), Andrew Ritchie (2253409R)
+###~ Authors: Adirek Laiman (2115808L), Cameron Taylor (2256483T), Tsveta Popova (2254765P), Andrew Ritchie (2253409R)
 ---
 ### 1 How to compile R Markdown files.
 #### 1.1 Download Prerequisites
