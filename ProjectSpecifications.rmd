@@ -39,7 +39,8 @@ We will use a version control system to collabrate, the specific tools being git
 
 
 \newpage
-#4 System Architecture 
+#4 System Architecture
+![](img/system_arc.png)\ \newpage
 
 \newpage
 #5 Entity Relationship Diagram
