@@ -21,6 +21,6 @@
 	![](image.extension)\
 	```
 ---
-### RoadMap
-- [ ] Project Specification: The Pantry.
-- [ ] Implementation of the website.
+### Development Roadmap
+- [ ] Project Specifications
+- [ ] Website Implementation
