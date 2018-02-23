@@ -62,7 +62,15 @@ The backend will store the data/content for the application. It will do this in 
 
 \newpage
 #5 Entity Relationship Diagram
+
+##5.1 Entity Relationship Diagram
 ![](img/ER_Diagram.png)\ \newpage
+
+##5.2 Structure of Models
+The structure for the user model will be a relation with the fields: Username, Password and User ID. The primary key for this will be User ID. Page will be a relation with the fields: Post Content, Category, Poster and Post ID. The primary key for this shall be Post ID. Finally the category is a relation with the fields: Post in Categories and Name. The primary key being Name.
+
+##5.3 Relationship and Cardinality
+The relationship between users and page is: users are authors of a page and pages have authors. The cardinality is 1-N, with users have many pages and pages belonging to one user. The relationship between users and categories is: users view categories and categories have many users viewing them. The cardinality is M-N, users new many pages and pages have many views from user. THe relationship between page and catagories is: each page has a cataegory and a catagory has pages. The cardinality is 1-M, categories have many pages and a page belongs only to one category.
 
 #6 Wireframes
 ##6.1 Index Page
