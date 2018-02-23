@@ -22,5 +22,5 @@
 	```
 ---
 ### Development Roadmap
-- [ ] Project Specifications
+- [x] Project Specifications
 - [ ] Website Implementation
