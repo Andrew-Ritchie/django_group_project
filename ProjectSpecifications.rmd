@@ -35,12 +35,30 @@ We will use a version control system to collabrate, the specific tools being git
 ##3.3 Persona 3
 ![](img/persona3.png)\
 
+\newpage
+
+##3.4 Persona 4
+![](img/persona4.png)\
+
 
 
 
 \newpage
 #4 System Architecture
-![](img/system_arc.png)\ \newpage
+![](img/system_arc.png)\ 
+
+##4.1 Client
+Our applications client will be a human. This means the application will have to be simple enough for most people to understand and aesthetically pleasing enough to make people want to use and come back to.
+
+##4.2 Middleware
+Django will be used for the applications middleware. We will store the URLs, templates, views, models and wrapper here. This means how the application looks and feels will be decided within the middleware.
+
+![](img/middleware.png)\
+\newpage
+
+##4.3 Backend
+The backend will store the data/content for the application. It will do this in a database. Services will also be stored here (search API).
+
 
 \newpage
 #5 Entity Relationship Diagram
