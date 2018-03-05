@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+{% load staticfiles %}
+
+<html>
+  <head lang="en">
+    <meta charset="UTF-8"/>
+    <title>
+      The Pantry -
+      {% block title_block %}
+        Recipes for everyone!
+      {% endblock %}
+    </title>
+
+  <body>
+      {% block body_block %}
+      <!-- Page specific content here -->
+      {% endblock %}
+  </body>
+</html>
