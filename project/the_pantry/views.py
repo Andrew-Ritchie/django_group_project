@@ -1,5 +1,6 @@
 from django.shortcuts import render
 from django.http import HttpResponse
+from the_pantry.models import Category, Recipe
 
 # Create your views here.
 

@@ -10,6 +10,9 @@ class Category(models.Model):
     class Meta:
         verbose_name_plural = "Catagories"
 
+    def __str__(self): #python 2 unicode support
+        return self.name
+
 class Recipe(models.Model):
     title = models.CharField(max_length=200)
     category = models.ForeignKey(Category)
@@ -20,3 +23,6 @@ class Recipe(models.Model):
 
     class Meta:
         verbose_name_plural = "Recipies"
+
+    def __str__(self): #python 2 unicode support
+        return self.title
