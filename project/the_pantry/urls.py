@@ -14,10 +14,15 @@ urlpatterns = [
     url(r'^about/', views.about, name='about'),
     url(r'^contact/', views.contact, name='contact'),
     url(r'^faq/', views.faq, name='faq'),
+    url(r'^publish/', views.publish, name='publish'),
+    url(r'^category/', views.category, name='category'),
+    url(r'^recipe/', views.recipe, name='recipe'),
 
     #===========================================#
     #    OTHER USER PROFILES  + LOGOUT          #
     #===========================================#
+
+    # Should logout just take u to login or should it show a message first?
 
 #    url(r'^logout/', views.logout, name='logout'),
 ]
