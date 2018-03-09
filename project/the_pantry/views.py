@@ -62,3 +62,13 @@ def faq(request):
 def publish(request):
     context_dict = {}
     return render(request, 'the_pantry/publish.html', context = context_dict)
+
+# Specific category page
+def category(request):
+    context_dict = {}
+    return render(request, 'the_pantry/category.html', context = context_dict)
+
+# Recipe page
+def recipe(request):
+    context_dict = {}
+    return render(request, 'the_pantry/recipe.html', context = context_dict)
