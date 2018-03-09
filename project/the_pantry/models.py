@@ -1,5 +1,6 @@
 from django.db import models
 from datetime import datetime
+from django.contrib.auth.models import User
 
 # Create your models here.
 #basic models for posts and catagories created
@@ -26,3 +27,14 @@ class Recipe(models.Model):
 
     def __str__(self): #python 2 unicode support
         return self.title
+
+class UserProfile(models.Model):
+    # Link User profile to a User model instance
+    user = models.OneToOneField(User)
+
+    # Additional attributes
+    picture = models.ImageField(upload_to='profile_images', blank = True)
+
+    # Override __unicode__()
+    def __str__(self):
+        return self.user.username
