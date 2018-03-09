@@ -1,0 +1,10 @@
+{% extends 'the_pantry/base.html' %}
+{% load staticfiles %}
+
+{% block title_block %}
+  Publish a Recipe
+{% endblock %}
+
+{% block body_block %}
+  <h1>Publish a recipe here</h1>
+{% endblock %}

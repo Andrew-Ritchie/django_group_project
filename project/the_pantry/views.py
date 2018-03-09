@@ -57,3 +57,8 @@ def contact(request):
 def faq(request):
     context_dict = {}
     return render(request, 'the_pantry/faq.html', context = context_dict)
+
+# Publish a Recipe
+def publish(request):
+    context_dict = {}
+    return render(request, 'the_pantry/publish.html', context = context_dict)
